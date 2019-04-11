@@ -19,5 +19,9 @@ $ sudo apt-get autoremove
 $ sudo apt-get autoclean
 
 
-# Cleaning
+# Chromium
 sudo apt-get install chromium-browser --yes
+
+
+# VNC
+sudo apt-get install realvnc-vnc-server
